@@ -1,0 +1,96 @@
+1522044377263	geckodriver	INFO	geckodriver 0.19.1
+1522044377271	geckodriver	INFO	Listening on 127.0.0.1:8198
+1522044380347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.TMdFbqM609N2"
+1522044380953	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522044381730	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2692] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522044386599	Marionette	INFO	Listening on port 8209
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522044386806	Marionette	INFO	Listening on port 8209
+1522044386839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522044386901	Marionette	DEBUG	loaded listener.js
+1522044387128	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522044387321	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522044387322	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://pyw.cn/, line 624: TypeError: navigator.appVersion.split(...)[1] is undefined
+1522044387632	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://pyw.cn/wap/"
+1522044387834	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://pyw.cn/wap/"
+1522044387837	Marionette	DEBUG	Received DOM event "pageshow" for "http://pyw.cn/wap/"
+1522044387974	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://pyw.cn/wap/"
+1522044387978	Marionette	DEBUG	Received DOM event "pageshow" for "http://pyw.cn/wap/"
+1522044388105	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://combo.b.qq.com/da/id.html?q=96i8rj.4nzmba.jf7txi0i&p=p43jwk.qn556g.jf7txi0h&t=4000709394&a=&c=4983654400&s=1.1.pdr6ey.jf7txi0j&src=12&pgv_pvi=&v=0.7.7&ts=http%3A%2F%2Fda.qidian.qq.com%2Fping%2Fid"
+1522044388181	Marionette	DEBUG	Received DOM event "pageshow" for "http://combo.b.qq.com/da/id.html?q=96i8rj.4nzmba.jf7txi0i&p=p43jwk.qn556g.jf7txi0h&t=4000709394&a=&c=4983654400&s=1.1.pdr6ey.jf7txi0j&src=12&pgv_pvi=&v=0.7.7&ts=http%3A%2F%2Fda.qidian.qq.com%2Fping%2Fid"
+[GPU 6868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522047465984	geckodriver	INFO	geckodriver 0.19.1
+1522047465992	geckodriver	INFO	Listening on 127.0.0.1:8442
+1522047469048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.qwIpRBJ9UM58"
+1522047469652	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522047470560	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6624] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522047474509	Marionette	INFO	Listening on port 8451
+1522047474541	Marionette	INFO	Listening on port 8451
+1522047474970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522047475009	Marionette	DEBUG	loaded listener.js
+1522047475031	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522047475237	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522047475238	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://pyw.cn/, line 624: TypeError: navigator.appVersion.split(...)[1] is undefined
+1522047475589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://pyw.cn/wap/"
+1522047475907	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://pyw.cn/wap/"
+1522047475910	Marionette	DEBUG	Received DOM event "pageshow" for "http://pyw.cn/wap/"
+1522047476102	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://pyw.cn/wap/"
+1522047476107	Marionette	DEBUG	Received DOM event "pageshow" for "http://pyw.cn/wap/"
+1522047476214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://combo.b.qq.com/da/id.html?q=pr9cp9.b41xy3.jf7vroto&p=9u4z93.rakg17.jf7vroto&t=4000709394&a=&c=2681337856&s=1.1.z17mv8.jf7vrotq&src=12&pgv_pvi=&v=0.7.7&ts=http%3A%2F%2Fda.qidian.qq.com%2Fping%2Fid"
+1522047476267	Marionette	DEBUG	Received DOM event "pageshow" for "http://combo.b.qq.com/da/id.html?q=pr9cp9.b41xy3.jf7vroto&p=9u4z93.rakg17.jf7vroto&t=4000709394&a=&c=2681337856&s=1.1.z17mv8.jf7vrotq&src=12&pgv_pvi=&v=0.7.7&ts=http%3A%2F%2Fda.qidian.qq.com%2Fping%2Fid"
+1522047536698	Marionette	DEBUG	Received DOM event "pageshow" for "http://pyw.cn/wap/"
+1522047537056	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 8052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6624] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1523340239679	geckodriver	INFO	geckodriver 0.20.1
+1523340239824	geckodriver	INFO	Listening on 127.0.0.1:52328
+1523340241962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.HhmtFp0WyirB"
+1523340244886	Marionette	INFO	Enabled via --marionette
+1523340250776	Marionette	INFO	Listening on port 52336
+1523340252222	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://pyw.cn/, line 826: TypeError: navigator.appVersion.split(...)[1] is undefined
+1523340353116	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1523340353120	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523347844649	geckodriver	INFO	geckodriver 0.20.1
+1523347844664	geckodriver	INFO	Listening on 127.0.0.1:52754
+1523347846550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.DfFHxuex5Vei"
+1523347847656	Marionette	INFO	Enabled via --marionette
+1523347849876	Marionette	INFO	Listening on port 52760
+1523347850348	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://pyw.cn/, line 826: TypeError: navigator.appVersion.split(...)[1] is undefined
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
